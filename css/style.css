@@ -1,0 +1,147 @@
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #000;
+}
+
+#sec-1{
+	background-image: url(../img/fondos-pantalla-screensaver-dark-blanconegro-wallpapers.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #fff;
+	padding: 250px 0px;
+	font-family: "Impact", "Haettenschweiler", "Franklin Gothic Bold", "Arial Black", "sans-serif";	
+	font-size: 50px;	
+}
+
+.navbar{
+	background-color: #262626;
+	
+}
+
+
+sec-1, h2{
+	font-size: 60px;
+	font-stretch: ultra-expanded;
+}
+
+
+sec-1,h3{
+	font-family: 'Open Sans', sans-serif;
+	color: #D8D000;
+}
+
+i{
+	font-size: 500px;
+}
+
+#about{
+	background-color: #FFFFFF;
+	
+}
+
+#about-text{
+	background-color: #D8D000;
+	color: #000000;
+}
+
+
+#about-text, p{
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 15px;
+}
+
+
+#about-text,h4{
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 50px;
+	font-stretch: extra-condensed;
+	
+}
+#about-text h3{
+	color: #FFFFFF;
+}
+
+#habilidades h3{
+	color: #000000;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	padding: 30px;
+}
+
+ #habilidadesf img{
+display: block;
+	 margin: auto;
+	 width: 60%;
+}
+
+#about h1{
+	color: #000000;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	
+}
+
+.fa{
+	font-size: 100px !important;
+	background-color: #D8D000;
+	color: #FFFFFF;
+	border-radius: 10px;
+	width: 80px;s
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+}
+
+#sec-services{
+	background-color:#262626; 
+	padding: 110px;
+	margin: 0px -110px -20px -110px;
+	
+}
+
+#sec-slides{
+
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;*/
+	color: #fff;
+	padding: 100px 0px;
+}
+#sec-slides h4{
+	font-size: 34px;
+	text-transform: uppercase;
+}
+#sec-slides h2{
+	font-size: 64px;
+	text-transform: uppercase;
+}
+#sec-slides p{
+	font-size: 18px;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+#sec-slides a{
+	text-transform: uppercase;
+}
+#sec-slides .btn-warning{
+	background-color: #e7931a;
+	border: 0;
+}
+#sec-slides .btn-warning:hover{
+	background-color: #343434;
+}
+#sec-slides .btn-default{
+	background-color: transparent;
+	border-width: 2px;
+	color: #fff;
+}
+#sec-slides .btn-default:hover{
+	background-color: #e7931a;
+	border-color: #e7931a;
+
+
+
+
